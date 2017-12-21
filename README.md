@@ -1,1 +1,1 @@
-"3 nintendo-kid-visuals" 
+Visuals for my Nintendo Kid project
